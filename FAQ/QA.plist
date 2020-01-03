@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>What is this app about?</string>
+		<string>I have issues with the app. How can I contact you?</string>
+		<string>Why this feature does not work?</string>
+		<string>Do you have any other apps?</string>
+	</array>
+	<key>Answers</key>
+	<dict>
+		<key>0</key>
+		<array>
+			<string>This app is about listing Frequently Asked Questions by the users</string>
+			<string>It can be used as a UIViewController and edit the QAs in this plist</string>
+		</array>
+		<key>1</key>
+		<array>
+			<string>If you want to help please contact us on Facebook page by clicking here!</string>
+		</array>
+		<key>2</key>
+		<array>
+			<string>Make sure that you enable A and B in the settings</string>
+			<string>Also make sure to list our FAQs on our website</string>
+		</array>
+		<key>3</key>
+		<array>
+			<string>Yes, you can find all the other apps on App Store by clicking here!</string>
+		</array>
+	</dict>
+</dict>
+</plist>
