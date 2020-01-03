@@ -58,16 +58,32 @@
 		8B147ACE23BEB09E005B5B8A /* FAQ */ = {
 			isa = PBXGroup;
 			children = (
+				8BD6341323BF946800137525 /* Classes */,
+				8BD6341223BF945C00137525 /* Data */,
 				8B147ACF23BEB09E005B5B8A /* AppDelegate.swift */,
 				8B147AD123BEB09E005B5B8A /* SceneDelegate.swift */,
-				8B147AD323BEB09E005B5B8A /* FAQViewController.swift */,
 				8B147AD523BEB09E005B5B8A /* Main.storyboard */,
 				8B147AD823BEB0A0005B5B8A /* Assets.xcassets */,
 				8B147ADA23BEB0A0005B5B8A /* LaunchScreen.storyboard */,
 				8B147ADD23BEB0A0005B5B8A /* Info.plist */,
-				8BCDEAED23BEB3A1006FED83 /* QA.plist */,
 			);
 			path = FAQ;
+			sourceTree = "<group>";
+		};
+		8BD6341223BF945C00137525 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				8BCDEAED23BEB3A1006FED83 /* QA.plist */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		8BD6341323BF946800137525 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				8B147AD323BEB09E005B5B8A /* FAQViewController.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
